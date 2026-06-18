@@ -1,6 +1,6 @@
   # Hi 👋, I'm Vamshi Yadav
 
-🎓 B.Tech Aspirant | 💻 Full Stack Web Developer (MERN Stack in Progress)  
+🎓 B.Tech (computer science student) | 💻 Full Stack Web Developer (MERN Stack in Progress)  
 🧩 Learning Data Structures & Algorithms in C++  
 🚀 Passionate about Problem Solving & Building Real-World Projects  
 
